@@ -1,0 +1,12 @@
+{
+    "name": "cherif/appo",
+    "authors": [
+        {
+            "name": "Cherif BOUCHELAGHEM",
+            "email": "cherif.bouchelaghem@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.6"
+    }
+}
